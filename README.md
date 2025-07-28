@@ -23,6 +23,8 @@
   </tr>
 </table>
 
+<img src="icons/gear-svgrepo.svg" alt="Icona SVG" width="100" height="100" />
+
 
 
 
