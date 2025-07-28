@@ -55,6 +55,40 @@
 
 
 
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <svg width="100" height="50" style="position:absolute; z-index:-1;">
+        <rect width="100" height="50" fill="lightblue"/>
+      </svg>
+      <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="48" alt="Notepad++"/>
+    </td>
+    <td align="center">
+      <svg width="100" height="50" style="position:absolute; z-index:-1;">
+        <rect width="100" height="50" fill="lightgreen"/>
+      </svg>
+      <img src="https://cdn.simpleicons.org/inkscape/AEAEAE" width="48" alt="Inkscape"/>
+    </td>
+    <td align="center">
+      <svg width="100" height="50" style="position:absolute; z-index:-1;">
+        <rect width="100" height="50" fill="lightcoral"/>
+      </svg>
+      <img src="https://cdn.simpleicons.org/gimp/8C8073" width="48" alt="GIMP"/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center" style="position:relative;">Notepad++<br>Editor</td>
+    <td align="center" style="position:relative;">Inkscape<br>Graphics</td>
+    <td align="center" style="position:relative;">GIMP<br>Graphics</td>
+    <td align="center" style="position:relative;">Paint.NET<br>Graphics</td>
+  </tr>
+</table>
+
+
+
+
+
 
 
 
