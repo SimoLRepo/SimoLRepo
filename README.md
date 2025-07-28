@@ -59,7 +59,7 @@
   <tr>
     <td align="center">
       <svg width="100" height="50" style="position:absolute; z-index:-1;">
-        <rect width="100" height="50" fill="lightblue"/>
+        <rect width="100" height="50" fill="red"/>
       </svg>
       <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="48" alt="Notepad++"/>
     </td>
