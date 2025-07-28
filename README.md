@@ -13,14 +13,12 @@
 ## 🖥️ Languages
 <table>
   <tr>
-    <!-- <td align="center"></td> -->
     <td align="center"><img src="https://cdn.simpleicons.org/nsis/0078D7" width="48" alt="NSIS"/></td>
     <td align="center"><img src="https://cdn.simpleicons.org/autoit/1C3552" width="48" alt="AutoIt"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/SimoLRepo/SimoLRepo/refs/heads/main/icons/gear4-svgrepo.svg?v=83745728" width="45" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/SimoLRepo/SimoLRepo/refs/heads/main/icons/ini-file.svg?v=3287476" width="45" /></td>
   </tr>
   <tr style="background-color:red;">
-    <!-- <td align="center"></td> -->
     <td align="center">NSIS<br>Scripting</td>
     <td align="center">AutoIt<br>Scripting</td>
     <td align="center">Batch<br>Scripting</td>
