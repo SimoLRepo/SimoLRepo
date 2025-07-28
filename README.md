@@ -7,6 +7,7 @@
 ![Batch](https://img.shields.io/badge/Batch-Scripting-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![INI](https://img.shields.io/badge/INI-Config-555555?style=for-the-badge)
 ![GIMP](https://img.shields.io/badge/GIMP-Graphics-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-Vector%20Design-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Paint.NET](https://img.shields.io/badge/Paint.NET-Editing-0047AB?style=for-the-badge&logo=paintbrush&logoColor=white)
 
 
