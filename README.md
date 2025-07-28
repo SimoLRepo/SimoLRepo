@@ -30,6 +30,7 @@
 -->
 
 ## 🛠️ Tools
+<!--
 <table>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="48" alt="Notepad++" /></td>
@@ -44,6 +45,7 @@
     <td align="center">Paint.NET<br>Graphics</td>
   </tr>
 </table>
+-->
 
 
 <!--
