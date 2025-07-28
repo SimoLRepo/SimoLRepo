@@ -11,6 +11,8 @@
 -->
 
 ## 🖥️ Languages
+<img src="https://img.shields.io/badge/NSIS-212121?logo=nsis&logoColor=black&color=212121&labelColor=01B0F0&style=for-the-badge"> <img src="https://img.shields.io/badge/AutoIt-212121?logo=autoit&logoColor=black&color=212121&labelColor=5D83AC&style=for-the-badge"> <img src="https://img.shields.io/badge/Batch-212121?logo=gnometerminal&logoColor=black&color=212121&labelColor=grey&style=for-the-badge">
+<!--
 <table>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/nsis/0078D7" width="48" alt="NSIS"/></td>
@@ -25,6 +27,7 @@
     <td align="center">Ini File<br>Configuration</td>
   </tr>
 </table>
+-->
 
 ## 🛠️ Tools
 <table>
