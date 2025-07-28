@@ -54,36 +54,38 @@
 
 
 
-
-<table border="1" cellpadding="10" cellspacing="0">
+<table border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center">
-      <svg width="100" height="50" style="position:absolute; z-index:-1;">
-        <rect width="100" height="50" fill="red"/>
+    <td style="position: relative; width: 120px; height: 80px; padding: 0;">
+      <svg width="120" height="80" style="position: absolute; top: 0; left: 0; z-index: 0;">
+        <rect width="120" height="80" fill="#90E59A" />
       </svg>
-      <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="48" alt="Notepad++"/>
+      <div style="position: relative; z-index: 1; text-align: center; padding: 10px;">
+        <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="48" alt="Notepad++"/>
+        <div>Notepad++<br>Editor</div>
+      </div>
     </td>
-    <td align="center">
-      <svg width="100" height="50" style="position:absolute; z-index:-1;">
-        <rect width="100" height="50" fill="lightgreen"/>
+    <td style="position: relative; width: 120px; height: 80px; padding: 0;">
+      <svg width="120" height="80" style="position: absolute; top: 0; left: 0; z-index: 0;">
+        <rect width="120" height="80" fill="#AEAEAE" />
       </svg>
-      <img src="https://cdn.simpleicons.org/inkscape/AEAEAE" width="48" alt="Inkscape"/>
+      <div style="position: relative; z-index: 1; text-align: center; padding: 10px;">
+        <img src="https://cdn.simpleicons.org/inkscape/AEAEAE" width="48" alt="Inkscape"/>
+        <div>Inkscape<br>Graphics</div>
+      </div>
     </td>
-    <td align="center">
-      <svg width="100" height="50" style="position:absolute; z-index:-1;">
-        <rect width="100" height="50" fill="lightcoral"/>
+    <td style="position: relative; width: 120px; height: 80px; padding: 0;">
+      <svg width="120" height="80" style="position: absolute; top: 0; left: 0; z-index: 0;">
+        <rect width="120" height="80" fill="#8C8073" />
       </svg>
-      <img src="https://cdn.simpleicons.org/gimp/8C8073" width="48" alt="GIMP"/>
+      <div style="position: relative; z-index: 1; text-align: center; padding: 10px;">
+        <img src="https://cdn.simpleicons.org/gimp/8C8073" width="48" alt="GIMP"/>
+        <div>GIMP<br>Graphics</div>
+      </div>
     </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center" style="position:relative;">Notepad++<br>Editor</td>
-    <td align="center" style="position:relative;">Inkscape<br>Graphics</td>
-    <td align="center" style="position:relative;">GIMP<br>Graphics</td>
-    <td align="center" style="position:relative;">Paint.NET<br>Graphics</td>
   </tr>
 </table>
+
 
 
 
