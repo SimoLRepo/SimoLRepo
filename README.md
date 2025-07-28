@@ -16,7 +16,7 @@
     <!-- <td align="center"></td> -->
     <td align="center"><img src="https://cdn.simpleicons.org/nsis/0078D7" width="48" alt="NSIS"/></td>
     <td align="center"><img src="https://cdn.simpleicons.org/autoit/1C3552" width="48" alt="AutoIt"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SimoLRepo/SimoLRepo/refs/heads/main/icons/gear-svgrepo.svg" width="45" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SimoLRepo/SimoLRepo/refs/heads/main/icons/gear2-svgrepo.svg" width="45" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/SimoLRepo/SimoLRepo/refs/heads/main/icons/ini-file.svg" width="45" /></td>
   </tr>
   <tr style="background-color:red;">
