@@ -32,7 +32,7 @@
 <table>
   <tr>
     <!-- <td align="center"></td> -->
-    <td align="center"><img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="48" alt="Notepad++"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="48" alt="Notepad++" /></td>
     <td align="center"><img src="https://cdn.simpleicons.org/inkscape/AEAEAE" width="48" alt="Inkscape"/></td>
     <td align="center"><img src="https://cdn.simpleicons.org/gimp/8C8073" width="48" alt="GIMP"/></td>
     <td align="center"></td>
@@ -52,27 +52,6 @@
 <img src="https://cdn.simpleicons.org/autoit/1C3552" width="48" alt="AutoIt"/>
 -->
 
-
-
-<svg width="120" height="80" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0 0 H120 V80 H0 Z" fill="#90E59A" />
-    <table>
-      <tr>
-        <!-- <td align="center"></td> -->
-        <td align="center"><img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" width="48" alt="Notepad++"/></td>
-        <td align="center"><img src="https://cdn.simpleicons.org/inkscape/AEAEAE" width="48" alt="Inkscape"/></td>
-        <td align="center"><img src="https://cdn.simpleicons.org/gimp/8C8073" width="48" alt="GIMP"/></td>
-        <td align="center"></td>
-      </tr>
-      <tr style="background-color:red;">
-        <!-- <td align="center"></td> -->
-        <td align="center">Notepad++<br>Editor</td>
-         <td align="center">Inkscape<br>Graphics</td>
-        <td align="center">GIMP<br>Graphics</td>
-        <td align="center">Paint.NET<br>Graphics</td>
-      </tr>
-    </table>
-</svg>
 
 
 
