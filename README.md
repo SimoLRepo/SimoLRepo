@@ -32,7 +32,7 @@
 <table>
   <tr>
     <!-- <td align="center"></td> -->
-    <td align="center"><img src="https://cdn.simpleicons.org/inkscape/FFFFFF" width="48" alt="Inkscape"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/inkscape/e1e1e1" width="48" alt="Inkscape"/></td>
     <td align="center"><img src="https://cdn.simpleicons.org/gimp/8C8073" width="48" alt="GIMP"/></td>
   </tr>
   <tr style="background-color:red;">
