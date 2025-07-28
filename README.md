@@ -10,6 +10,27 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-Vector%20Design-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Paint.NET](https://img.shields.io/badge/Paint.NET-Editing-0047AB?style=for-the-badge&logo=paintbrush&logoColor=white)
 
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/nsis/0078D7" width="48" alt="NSIS"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/autoit/1C3552" width="48" alt="AutoIt"/></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr style="background-color:red;">
+    <td align="center">NSIS<br>Scripting</td>
+    <td align="center">AutoIt<br>Scripting</td>
+  </tr>
+</table>
+
+
+
+
+<!--
+<img src="https://cdn.simpleicons.org/nsis/0078D7" width="48" alt="NSIS"/>
+<img src="https://cdn.simpleicons.org/autoit/1C3552" width="48" alt="AutoIt"/>
+-->
+
 
 
 
