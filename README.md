@@ -11,7 +11,7 @@
 -->
 
 ## 🖥️ Languages
-<img src="https://img.shields.io/badge/NSIS-212121?logo=nsis&logoColor=black&color=212121&labelColor=01B0F0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/AutoIt-212121?logo=autoit&logoColor=black&color=212121&labelColor=5D83AC&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/Batch-212121?logo=gnometerminal&logoColor=black&color=212121&labelColor=C0C0C0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/WordPress-212121?logo=wordpress&logoColor=black&color=212121&labelColor=21759B&style=for-the-badge">
+<img src="https://img.shields.io/badge/NSIS-212121?logo=nsis&logoColor=black&color=212121&labelColor=01B0F0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/AutoIt-212121?logo=autoit&logoColor=black&color=212121&labelColor=5D83AC&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/Batch-212121?logo=gnometerminal&logoColor=black&color=212121&labelColor=C0C0C0&style=for-the-badge">
 <!--
 <table>
   <tr>
@@ -30,7 +30,7 @@
 -->
 
 ## 🛠️ Tools
-<img src="https://img.shields.io/badge/Notepad++-212121?logo=notepadplusplus&logoColor=black&color=212121&labelColor=90E59A&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/Inkscape-212121?logo=inkscape&logoColor=black&color=212121&labelColor=C0C0C0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/GIMP-212121?logo=gimp&logoColor=black&color=212121&labelColor=8C8073&style=for-the-badge">
+<img src="https://img.shields.io/badge/Notepad++-212121?logo=notepadplusplus&logoColor=black&color=212121&labelColor=90E59A&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/Inkscape-212121?logo=inkscape&logoColor=black&color=212121&labelColor=C0C0C0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/GIMP-212121?logo=gimp&logoColor=black&color=212121&labelColor=8C8073&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/WordPress-212121?logo=wordpress&logoColor=black&color=212121&labelColor=21759B&style=for-the-badge">
 <!--
 <table>
   <tr>
