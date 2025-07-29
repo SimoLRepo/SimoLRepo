@@ -30,6 +30,7 @@
 -->
 
 ## 🛠️ Tools
+<img src="https://img.shields.io/badge/Notepad++-212121?logo=notepadplusplus&logoColor=black&color=212121&labelColor=90E59A&style=for-the-badge"> <img src="https://img.shields.io/badge/Inkscape-212121?logo=inkscape&logoColor=black&color=212121&labelColor=grey&style=for-the-badge"> <img src="https://img.shields.io/badge/GIMP-212121?logo=gimp&logoColor=black&color=212121&labelColor=8C8073&style=for-the-badge">
 <!--
 <table>
   <tr>
