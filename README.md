@@ -31,7 +31,7 @@
 -->
 
 ## 🛠️ Tools
-<img src="https://img.shields.io/badge/Notepad++-212121?logo=notepadplusplus&logoColor=black&color=212121&labelColor=90E59A&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/Inkscape-212121?logo=inkscape&logoColor=black&color=212121&labelColor=C0C0C0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/GIMP-212121?logo=gimp&logoColor=black&color=212121&labelColor=8C8073&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/WordPress-212121?logo=wordpress&logoColor=black&color=212121&labelColor=21759B&style=for-the-badge">
+<img src="https://img.shields.io/badge/Notepad++-212121?logo=notepadplusplus&logoColor=black&color=212121&labelColor=90E59A&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/Inkscape-212121?logo=inkscape&logoColor=black&color=212121&labelColor=C0C0C0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/GIMP-212121?logo=gimp&logoColor=black&color=212121&labelColor=8C8073&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/WordPress-212121?logo=wordpress&logoColor=black&color=212121&labelColor=21759B&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/PortableApps-212121?logo=portableappsdotcom&logoColor=black&color=212121&labelColor=818F95&style=for-the-badge">
 <!--
 <table>
   <tr>
