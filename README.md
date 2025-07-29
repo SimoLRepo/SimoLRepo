@@ -11,7 +11,8 @@
 -->
 
 ## 🖥️ Languages
-<img src="https://img.shields.io/badge/NSIS-212121?logo=nsis&logoColor=black&color=212121&labelColor=01B0F0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/AutoIt-212121?logo=autoit&logoColor=black&color=212121&labelColor=5D83AC&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/Batch-212121?logo=gnometerminal&logoColor=black&color=212121&labelColor=C0C0C0&style=for-the-badge">
+<img src="https://img.shields.io/badge/NSIS-212121?logo=nsis&logoColor=black&color=212121&labelColor=01B0F0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/AutoIt-212121?logo=autoit&logoColor=black&color=212121&labelColor=5D83AC&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/Batch-212121?logo=gnometerminal&logoColor=black&color=212121&labelColor=C0C0C0&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/HTML-212121?logo=html5&logoColor=black&color=212121&labelColor=E34F26&style=for-the-badge"> &nbsp; <img src="https://img.shields.io/badge/CSS-212121?logo=css&logoColor=black&color=212121&labelColor=663399&style=for-the-badge">
+
 <!--
 <table>
   <tr>
