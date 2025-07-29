@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="138.25"
+   height="28"
+   role="img"
+   aria-label="NOTEPAD++"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="Shotcut_Label.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <defs
+     id="defs3">
+    <rect
+       x="-63.703704"
+       y="-163.7037"
+       width="133.33333"
+       height="38.518518"
+       id="rect3" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.35"
+     inkscape:cx="62.962963"
+     inkscape:cy="-12.962963"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <g
+     shape-rendering="crispEdges"
+     id="g2">
+    <rect
+       width="32"
+       height="28"
+       fill="#90e59a"
+       id="rect1"
+       style="fill:#0e3442;fill-opacity:1" />
+    <rect
+       x="32"
+       width="106.25"
+       height="28"
+       fill="#212121"
+       id="rect2" />
+  </g>
+  <g
+     fill="#fff"
+     text-anchor="middle"
+     font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+     text-rendering="geometricPrecision"
+     font-size="100"
+     id="g3">
+    <text
+       transform="matrix(0.1,0,0,0.1,1.9572405,0.13525391)"
+       x="851.25"
+       y="175"
+       textLength="822.5"
+       fill="#ffffff"
+       font-weight="bold"
+       id="text2"
+       lengthAdjust="spacing"
+       style="display:inline">SHOTCUT</text>
+  </g>
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="" />
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.164062"
+     d="M 9.0000002,7.0000002 V 21 H 12.9375 V 7.0000002 H 9.0000002 m 4.3749998,0 V 21 H 23 V 7.0000002 h -9.625"
+     id="path1"
+     sodipodi:nodetypes="cccccccccc" />
+</svg>
