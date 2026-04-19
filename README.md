@@ -1,5 +1,5 @@
 ## Welcome to my profile 👋
-###### Digital Graphics, Scripting Developer, Software Portability
+###### Digital graphics, Scripting developer, Portable software packaging
 
 <!--
 ![NSIS](https://img.shields.io/badge/NSIS-Scripting-0078D7?style=for-the-badge&logo=nsis&logoColor=white)
