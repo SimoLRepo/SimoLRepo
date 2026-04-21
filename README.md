@@ -2,6 +2,17 @@
 ###### Digital Graphics | Scripting Developer | Portable Software Packaging
 
 <!--
+<table style="width:100%">
+  <tr>
+    <th>🚀 Projects</th>
+  </tr>
+  <tr>
+    <td>👉 <a href="pages/projects.md">View my projects</a></td>
+  </tr>
+</table>
+-->
+
+<!--
 ![NSIS](https://img.shields.io/badge/NSIS-Scripting-0078D7?style=for-the-badge&logo=nsis&logoColor=white)
 ![AutoIt](https://img.shields.io/badge/AutoIt-Scripting-1C3552?style=for-the-badge&logo=autoit&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-Scripting-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white)
