@@ -1,6 +1,14 @@
 ## Welcome to my profile 👋
 ###### Digital Graphics | Scripting Developer | Portable Software Packaging
 
+## 👨‍💻 About Me
+
+I'm a **Computer Graphics Technician (EQF Level 5)** with a background in digital graphics, web technologies and software development.
+
+My interests include scripting, software development, **portable software packaging and distribution**, and workflow automation. I also have experience in digital content creation, desktop publishing and software troubleshooting.
+
+I enjoy exploring technologies and developing practical solutions through experimentation and independent projects.
+
 <!--
 <table style="width:100%">
   <tr>
