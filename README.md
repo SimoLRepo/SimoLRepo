@@ -46,7 +46,9 @@ I enjoy exploring technologies and developing practical solutions through experi
 
 # My playlist
 <!-- ![Music Widget](https://raw.githubusercontent.com/SimoLRepo/SimoLRepo/output/youtube-music-widget.svg) -->
+<a href="https://www.youtube.com/playlist?list=PLEQ3orhIPuVs" target="_blank">
 <img src="https://raw.githubusercontent.com/SimoLRepo/SimoLRepo/output/youtube-music-widget.svg" width="300" alt="Music Widget">
+</a>
 
 <!-- --- -->
 
