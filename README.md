@@ -46,6 +46,15 @@ I enjoy exploring technologies and developing practical solutions through experi
 
 # My playlist
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Lost Memory](https://ytcards.demolab.com/?id=-On2OjS78os&title=Lost+Memory&lang=en&timestamp=1693476230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Lost Memory")](https://www.youtube.com/watch?v=-On2OjS78os)
+[![Starlink (Sped Up)](https://ytcards.demolab.com/?id=EFt9m5YAkpw&title=Starlink+%28Sped+Up%29&lang=en&timestamp=1756375312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Starlink (Sped Up)")](https://www.youtube.com/watch?v=EFt9m5YAkpw)
+[![Neon Dust – Vice City (Official Video)](https://ytcards.demolab.com/?id=2Ete5axG66M&title=Neon+Dust+%E2%80%93+Vice+City+%28Official+Video%29&lang=en&timestamp=1644518610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Neon Dust – Vice City (Official Video)")](https://www.youtube.com/watch?v=2Ete5axG66M)
+[![Brigitte Laverne - Youth (Audio)](https://ytcards.demolab.com/?id=CQTBKRWhoRQ&title=Brigitte+Laverne+-+Youth+%28Audio%29&lang=en&timestamp=1520577744&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Brigitte Laverne - Youth (Audio)")](https://www.youtube.com/watch?v=CQTBKRWhoRQ)
+[![Crush on You](https://ytcards.demolab.com/?id=YUudXf5y4wA&title=Crush+on+You&lang=en&timestamp=1520503208&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Crush on You")](https://www.youtube.com/watch?v=YUudXf5y4wA)
+[![Night Habits - Last Summer (Official Audio)](https://ytcards.demolab.com/?id=FWJmww5nmeY&title=Night+Habits+-+Last+Summer+%28Official+Audio%29&lang=en&timestamp=1734371008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Night Habits - Last Summer (Official Audio)")](https://www.youtube.com/watch?v=FWJmww5nmeY)
+[![Almost Nothing](https://ytcards.demolab.com/?id=7FK6b2uQrH8&title=Almost+Nothing&lang=en&timestamp=1785405619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Almost Nothing")](https://www.youtube.com/watch?v=7FK6b2uQrH8)
+[![Inner Visions](https://ytcards.demolab.com/?id=QBpagZjsp6c&title=Inner+Visions&lang=en&timestamp=1452274517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Inner Visions")](https://www.youtube.com/watch?v=QBpagZjsp6c)
+[![Daydream](https://ytcards.demolab.com/?id=4tYmYkQAmBY&title=Daydream&lang=en&timestamp=1704362404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Daydream")](https://www.youtube.com/watch?v=4tYmYkQAmBY)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- --- -->
