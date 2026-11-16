@@ -18,7 +18,7 @@ jobs:
       - name: Generate YouTube Playlist Cards
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          playlist_id: "CurXgOWX2RrlxqC9"
+          playlist_id: "UuRUzy_m9iElLrUm"
 
           lang: en
           comment_tag_name: YOUTUBE-CARDS
