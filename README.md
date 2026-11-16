@@ -46,6 +46,7 @@ I enjoy exploring technologies and developing practical solutions through experi
 
 # My playlist
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Lost Memory](https://ytcards.demolab.com/?id=-On2OjS78os&title=Lost+Memory&lang=en&timestamp=1693476230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "Lost Memory")](https://www.youtube.com/watch?v=-On2OjS78os)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- --- -->
